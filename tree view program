@@ -1,6 +1,6 @@
 Public Class treeView  
     Private Sub treeView_Load(sender As Object, e As EventArgs) Handles MyBase.Load  
-        Me.Text = "javaTpoint.com" 'Set the title name for the Windows form.  
+        Me.Text = "javapoint.com" 'Set the title name for the Windows form.  
         Button1.Text = "Add New Node" 'Set the name of button  
     End Sub  
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click  
